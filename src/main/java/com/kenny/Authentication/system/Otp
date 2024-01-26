@@ -1,0 +1,5 @@
+1. Email Configuration and email service
+2.Generate a random isx digit password;
+3.entity class for the otp (to be able to save the otp and also to check)
+3.a method to send Otp
+4.a method to validate OTP(checking the accuracy of the code, also the time frame as a validity of expiration)
